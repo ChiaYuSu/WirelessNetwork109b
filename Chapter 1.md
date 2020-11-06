@@ -121,7 +121,8 @@
         - Internet Protocol Version 6 (IPv6) – 正在進行中
         - 無線 IP
 
-## 1.9 無線大都會網路、無線區域網路、無線體域網路及無線個人網路
+## 1.9 
+### 無線大都會網路、無線區域網路、無線體域網路及無線個人網路
 - 無線區域網路 (wireless local area network, WLAN)
     - 使用 IEEE 802.11 a/b/g/n/ac 等
 - 無線個人網路 (wireless personal area networks, WPANs) 
